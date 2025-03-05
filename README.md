@@ -30,7 +30,7 @@ disease_prediction/
   ✔ Fast and accurate results
 
 🚀 How to Run
-1️⃣ Clone the repository:
+1️⃣ Clone the repository:https://github.com/Ramanjineyalu7/Prediction-of-Disease-Outbreaks.git
   git clone 
   cd disease-prediction
 
